@@ -168,3 +168,5 @@ checkpoint
 
 # saved models
 *.pth
+
+data/*
