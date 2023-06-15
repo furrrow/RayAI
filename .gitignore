@@ -170,3 +170,4 @@ checkpoint
 *.pth
 
 data/*
+checkpoints/*
